@@ -12,3 +12,4 @@ An Ultimate Guide to Git and Github: An Ultimate Guide to Git and Github - Geeks
 Git For Beginners 2023: Git For Beginners 2023 (youtube.com): https://www.youtube.com/watch?v=vwj89i2FmG0&t=237s   <-Series of Videos  <-Follow
 Git Full Course - 6 Hours | Git Tutorial for Beginners [2024] | DevOps Git Tutorial | Edureka (Series Videos): Git Full Course - 6 Hours | Git Tutorial for Beginners [2024] | DevOps Git Tutorial | Edureka (youtube.com) https://www.youtube.com/watch?v=akD-DpolilE
 
+INTELLIPAT GIT LINK: https://github.com/raushan8586/devops-2023-september.git
